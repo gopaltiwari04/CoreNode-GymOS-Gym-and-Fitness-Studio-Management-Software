@@ -1,0 +1,6 @@
+{
+  "name": "CoreNode GymOS — Gym and Fitness Studio Management",
+  "description": "Comprehensive SaaS management platform for gyms, fitness studios, personal training centres, and health clubs with membership lifecycle, billing, attendance, CRM, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
